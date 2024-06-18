@@ -1,7 +1,8 @@
-**Amazon-Reviews-using-Sentiment-Analysis**
+#Amazon-Reviews-using-Sentiment-Analysis
 
 
 ****Business Problem****
+
 Which product categories has lower reviews / maybe inferior products? (ie. electronics, iPad)
 Which product have higher reviews / maybe superior products?
 Business solutions:
@@ -18,3 +19,5 @@ Assumptions:
 
 We're assuming that sample size of 30K examples are sufficient to represent the entire population of sales/reviews
 We're assuming that the information we find in the text reviews of each product will be rich enough to train a sentiment analysis classifier with accuracy (hopefully) > 70%
+
+
